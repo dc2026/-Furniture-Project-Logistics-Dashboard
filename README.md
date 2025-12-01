@@ -29,8 +29,8 @@ A comprehensive Streamlit application for The Furniture Project to optimize deli
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/dc2026/furniture-project-logistics-dashboard.git
-cd furniture-project-logistics-dashboard
+git clone https://github.com/dc2026/-Furniture-Project-Logistics-Dashboard.git
+cd -Furniture-Project-Logistics-Dashboard
 ```
 
 2. **Install dependencies**
