@@ -29,7 +29,7 @@ A comprehensive Streamlit application for The Furniture Project to optimize deli
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/dc2026/furniture-project-logistics-dashboard.git
 cd furniture-project-logistics-dashboard
 ```
 
