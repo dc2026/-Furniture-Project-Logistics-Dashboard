@@ -23,7 +23,7 @@ A comprehensive Streamlit application for The Furniture Project to optimize deli
 ### 📅 Calendar Integration
 - **Free Google Calendar**: URL-based integration (no API keys required)
 - **Route Manifests**: Downloadable delivery schedules with signatures
-- **Time Management**: Proper scheduling within TFP operating hours (9:00 AM - 2:30 PM)
+- **Time Management**: Proper scheduling within TFP operating hours (9:00 AM - 3:00 PM)
 
 ## Installation
 
