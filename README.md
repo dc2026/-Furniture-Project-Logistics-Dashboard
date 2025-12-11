@@ -12,7 +12,7 @@ A comprehensive Streamlit application for The Furniture Project to optimize deli
 ### 🗺️ Route Optimization
 - **Google Maps Integration**: Uses Google's routing engine for real-time traffic optimization
 - **Equity-Aware Geographic Clustering Algorithm (EAGCA)**: Prevents back-and-forth travel between neighborhoods
-- **Time-Based Scheduling**: Deliveries 9:45 AM - 12:00 PM, Pickups 1:00 PM - 2:30 PM
+- **Time-Based Scheduling**: Deliveries 9:00 AM - 11:00 PM, Pickups 11:00 PM - 3:00 PM
 
 ### 📊 Analytics & Reporting
 - **Coverage Gap Analysis**: Identifies underserved zip codes
