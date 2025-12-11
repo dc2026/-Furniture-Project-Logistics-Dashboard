@@ -102,9 +102,9 @@ furniture-project-logistics-dashboard/
 
 - **Primary**: Omaha, Nebraska (68xxx zip codes)
 - **Secondary**: Council Bluffs, Iowa (51xxx zip codes)
-- **Operating Hours**: 9:00 AM - 2:30 PM
-- **Delivery Window**: 9:45 AM - 12:00 PM
-- **Pickup Window**: 1:00 PM - 2:30 PM
+- **Operating Hours**: 9:00 AM - 3:00 PM
+- **Delivery Window**: 9:00 AM - 11:00 PM
+- **Pickup Window**: 11:00 PM - 3:00 PM
 
 ## Google Maps Integration
 
@@ -124,7 +124,7 @@ The system leverages Google Maps for route optimization because:
 
 ## Support
 
-For questions or issues with the Furniture Project Logistics Dashboard, contact the TFP operations team.
+For questions or issues with the Furniture Project Logistics Dashboard, contact the Danielle Carrol.
 
 ## License
 
